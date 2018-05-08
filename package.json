@@ -1,0 +1,15 @@
+{
+  "name": "apirestusers",
+  "version": "1.0.0",
+  "description": "Ejemplo ApiRest en Node.js",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "JonathanGoyes\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[C Goyes - jonathangoyes96@gmail.com",
+  "license": "MIT",
+  "dependencies": {
+    "body-parser": "^1.18.2",
+    "express": "^4.16.3"
+  }
+}
